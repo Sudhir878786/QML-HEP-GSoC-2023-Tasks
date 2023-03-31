@@ -6,7 +6,7 @@ The tasks description can be read [here](https://docs.google.com/document/d/1dqB
 
 
 ### Below are the clickable file links for each task.
-- **Task I** is trivial and straightforward. [Task I: Quantum Computing Part ](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task_I_Quantum_Computing_Part.ipynb)
+- **Task I** is trivial and straightforward. [Task I: Quantum Computing Part ](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task I Quantum Computing Part.ipynb)
 - **Task II** [Task II: Classical Graph Neural Network (GNN)](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20II%20Classical%20Graph%20Neural%20Network%20(GNN).ipynb)
     - Given to use ParticleNet’s data for Quark/Gluon jet classification available [here](https://zenodo.org/record/3164691#.YigdGt9MHrB)
 - **Task III**: These is an Open Task. [Task III: Open Task](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20III%20Open%20Task%20Part.md)
