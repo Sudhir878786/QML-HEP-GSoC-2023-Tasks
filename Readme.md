@@ -28,5 +28,12 @@ The tasks description can be read [here](https://docs.google.com/document/d/1dqB
 - [circuit generated in task I](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/circuit.gif),[y_train.gif](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/y_train%20plot.gif), [model.png](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/model.png) are images generated during the tasks.
 
 
+# Pdf for Tasks Performed
+- [Task I](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20I%20Quantum%20Computing%20Part%20(1).ipynb)
+- [Task II](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20II%20Classical%20Graph%20Neural%20Network%20(GNN).ipynb)
+- [Task IV](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20IV%20Quantum%20Generative%20Adversarial%20Network%20(QGAN).ipynb)
+- [Task VII](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20VII%20Equivariant%20quantum%20neural%20networks.ipynb)
+- [Task VIII](https://github.com/Sudhir878786/QML-HEP-GSoC-2023-Tasks/blob/master/Task%20VIII%20Quantum%20Vision%20Transformer.ipynb) 
+
 
 
